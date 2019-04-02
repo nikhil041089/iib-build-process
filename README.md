@@ -1,4 +1,4 @@
-#	IIB	Account	Service Updated
+#	IIB	Account	Service
 
 RESTful	API	service	for	getting/updating	account	info
 
